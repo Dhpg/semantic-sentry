@@ -1,0 +1,12 @@
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\bin\Debug\net9.0\SemanticSentry.Core.deps.json
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\bin\Debug\net9.0\SemanticSentry.Core.dll
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\bin\Debug\net9.0\SemanticSentry.Core.pdb
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.AssemblyInfoInputs.cache
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.AssemblyInfo.cs
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.dll
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\refint\SemanticSentry.Core.dll
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.pdb
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\ref\SemanticSentry.Core.dll
+C:\Users\dhana\OneDrive\Desktop\ProjectSoftEng\SemanticSentry.Core\obj\Debug\net9.0\SemanticSentry.Core.csproj.AssemblyReference.cache
