@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  semanticsentry-proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: semanticsentry_gateway
+    ports:
+      - "5128:5128"
+    volumes:
+      - ./data:/App/data
+    restart: always
